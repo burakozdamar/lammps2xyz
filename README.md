@@ -8,5 +8,5 @@ Basic script to convert the output of LAMMPS to .xyz file to visualize in VMD
 
 
 TODO:
-* Implement argparser to receive atomic kinds from the command line.
-* Make it work in tandem with topology file.
+* Implement argparse to receive atomic kinds from the command line.
+* Make it work in tandem with the topology file.
